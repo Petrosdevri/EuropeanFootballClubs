@@ -1,0 +1,2357 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "Albania",
+            "code": "AL",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Kukësi"
+                },
+                {
+                    "id": 2,
+                    "name": "Tirana"
+                },
+                {
+                    "id": 3,
+                    "name": "Partizani"
+                },
+                {
+                    "id": 4,
+                    "name": "Skënderbeu"
+                },
+                {
+                    "id": 5,
+                    "name": "Luftëtari"
+                },
+                {
+                    "id": 6,
+                    "name": "Laçi"
+                },
+                {
+                    "id": 7,
+                    "name": "Teuta"
+                },
+                {
+                    "id": 8,
+                    "name": "Vllaznia"
+                },
+                {
+                    "id": 9,
+                    "name": "Egnatia"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Andorra",
+            "code": "AD",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "FC Santa Coloma"
+                },
+                {
+                    "id": 2,
+                    "name": "UE Santa Coloma"
+                },
+                {
+                    "id": 3,
+                    "name": "Sant Julià"
+                },
+                {
+                    "id": 4,
+                    "name": "Engordany"
+                },
+                {
+                    "id": 5,
+                    "name": "Inter Club d'Escaldes"
+                },
+                {
+                    "id": 6,
+                    "name": "Atlètic d'Escaldes"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Armenia",
+            "code": "AM",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Alashkert"
+                },
+                {
+                    "id": 2,
+                    "name": "Shirak"
+                },
+                {
+                    "id": 3,
+                    "name": "Gandzasar Kapan"
+                },
+                {
+                    "id": 4,
+                    "name": "Pyunik"
+                },
+                {
+                    "id": 5,
+                    "name": "Urartu"
+                },
+                {
+                    "id": 6,
+                    "name": "Ararat-Armenia"
+                },
+                {
+                    "id": 7,
+                    "name": "Noah"
+                },
+                {
+                    "id": 8,
+                    "name": "Ararat Yerevan"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Austria",
+            "code": "AT",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Red Bull Salzburg"
+                },
+                {
+                    "id": 2,
+                    "name": "Austria Wien"
+                },
+                {
+                    "id": 3,
+                    "name": "Sturm Graz"
+                },
+                {
+                    "id": 4,
+                    "name": "Rheindorf Altach"
+                },
+                {
+                    "id": 5,
+                    "name": "Rapid Wien"
+                },
+                {
+                    "id": 6,
+                    "name": "LASK"
+                },
+                {
+                    "id": 7,
+                    "name": "Admira Wacker Mödling"
+                },
+                {
+                    "id": 8,
+                    "name": "Wolfsberger AC"
+                },
+                {
+                    "id": 9,
+                    "name": "Hartberg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Azerbaijan",
+            "code": "AZ",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Qarabağ"
+                },
+                {
+                    "id": 2,
+                    "name": "Gabala"
+                },
+                {
+                    "id": 3,
+                    "name": "Shamakhi"
+                },
+                {
+                    "id": 4,
+                    "name": "Zira"
+                },
+                {
+                    "id": 5,
+                    "name": "Neftçi Baku"
+                },
+                {
+                    "id": 6,
+                    "name": "Sabail"
+                },
+                {
+                    "id": 7,
+                    "name": "Sumgayit"
+                },
+                {
+                    "id": 8,
+                    "name": "Sabah"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Belarus",
+            "code": "BY",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "BATE Borisov"
+                },
+                {
+                    "id": 2,
+                    "name": "Dynamo Brest"
+                },
+                {
+                    "id": 3,
+                    "name": "Shakhtyor Soligorsk"
+                },
+                {
+                    "id": 4,
+                    "name": "Dinamo Minsk"
+                },
+                {
+                    "id": 5,
+                    "name": "Vitebsk"
+                },
+                {
+                    "id": 6,
+                    "name": "Torpedo Zhodino"
+                },
+                {
+                    "id": 7,
+                    "name": "Gomel"
+                },
+                {
+                    "id": 8,
+                    "name": "Neman Grodno"
+                },
+                {
+                    "id": 9,
+                    "name": "Isloch Minsk Raion"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Belgium",
+            "code": "BE",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Anderlecht"
+                },
+                {
+                    "id": 2,
+                    "name": "Club Brugge"
+                },
+                {
+                    "id": 3,
+                    "name": "Zulte Waregem"
+                },
+                {
+                    "id": 4,
+                    "name": "Gent"
+                }, 
+                {
+                    "id": 5,
+                    "name": "Oostende"
+                }, 
+                {
+                    "id": 6,
+                    "name": "Standard Liège"
+                }, 
+                {
+                    "id": 7,
+                    "name": "Genk"
+                }, 
+                {
+                    "id": 8,
+                    "name": "Antwerp"
+                }, 
+                {
+                    "id": 9,
+                    "name": "Charleroi"
+                },
+                {
+                    "id": 10,
+                    "name": "Union Saint-Gilloise"
+                }, 
+                {
+                    "id": 11,
+                    "name": "Cercle Brugge"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Bosnia and Herzegovina",
+            "code": "BA",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Zrinjski Mostar"
+                },
+                {
+                    "id": 2,
+                    "name": "Široki Brijeg"
+                },
+                {
+                    "id": 3,
+                    "name": "Željezničar Sarajevo"
+                },
+                {
+                    "id": 4,
+                    "name": "Sarajevo"
+                }, 
+                {
+                    "id": 5,
+                    "name": "Radnik Bijeljina"
+                }, 
+                {
+                    "id": 6,
+                    "name": "Borac Banja Luka"
+                }, 
+                {
+                    "id": 7,
+                    "name": "Velež Mostar"
+                }, 
+                {
+                    "id": 8,
+                    "name": "Tuzla City"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Bulgaria",
+            "code": "BG",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Ludogorets Razgrad"
+                },
+                {
+                    "id": 2,
+                    "name": "Botev Plovdiv"
+                },
+                {
+                    "id": 3,
+                    "name": "Levski Sofia"
+                },
+                {
+                    "id": 4,
+                    "name": "Dunav Ruse"
+                },
+                {
+                    "id": 5,
+                    "name": "CSKA Sofia"
+                },
+                {
+                    "id": 6,
+                    "name": "Slavia Sofia"
+                },
+                {
+                    "id": 7,
+                    "name": "Lokomotiv Plovdiv"
+                },
+                {
+                    "id": 8,
+                    "name": "Arda"
+                },
+                {
+                    "id": 9,
+                    "name": "CSKA 1948"
+                },
+                {
+                    "id": 10,
+                    "name": "Cherno More"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Croatia",
+            "code": "HR",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Rijeka"
+                },
+                {
+                    "id": 2,
+                    "name": "Dinamo Zagreb"
+                },
+                {
+                    "id": 3,
+                    "name": "Hajduk Split"
+                },
+                {
+                    "id": 4,
+                    "name": "Osijek"
+                },
+                {
+                    "id": 5,
+                    "name": "Lokomotiva"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Cyprus",
+            "code": "CY",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "APOEL"
+                },
+                {
+                    "id": 2,
+                    "name": "Apollon Limassol"
+                },
+                {
+                    "id": 3,
+                    "name": "AEK Larnaca"
+                },
+                {
+                    "id": 4,
+                    "name": "AEL Limassol"
+                },
+                {
+                    "id": 5,
+                    "name": "Anorthosis Famagusta"
+                },
+                {
+                    "id": 6,
+                    "name": "Omonia"
+                },
+                {
+                    "id": 7,
+                    "name": "Aris Limassol"
+                },
+                {
+                    "id": 8,
+                    "name": "Pafos"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Czech Republic",
+            "code": "CZ",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Slavia Prague"
+                },
+                {
+                    "id": 2,
+                    "name": "Fastav Zlín"
+                },
+                {
+                    "id": 3,
+                    "name": "Viktoria Plzeň"
+                },
+                {
+                    "id": 4,
+                    "name": "Sparta Prague"
+                },
+                {
+                    "id": 5,
+                    "name": "Mladá Boleslav"
+                },
+                {
+                    "id": 6,
+                    "name": "Jablonec"
+                },
+                {
+                    "id": 7,
+                    "name": "Slovan Liberec"
+                },
+                {
+                    "id": 8,
+                    "name": "Slovácko"
+                },
+                {
+                    "id": 9,
+                    "name": "Baník Ostrava"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Denmark",
+            "code": "DK",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Copenhagen"
+                },
+                {
+                    "id": 2,
+                    "name": "Brøndby"
+                },
+                {
+                    "id": 3,
+                    "name": "Lyngby"
+                },
+                {
+                    "id": 4,
+                    "name": "Midtjylland"
+                },
+                {
+                    "id": 5,
+                    "name": "Nordsjælland"
+                },
+                {
+                    "id": 6,
+                    "name": "Esbjerg"
+                },
+                {
+                    "id": 7,
+                    "name": "SønderjyskE"
+                },
+                {
+                    "id": 8,
+                    "name": "Randers"
+                },
+                {
+                    "id": 9,
+                    "name": "AGF"
+                },
+                {
+                    "id": 10,
+                    "name": "Silkeborg"
+                },
+                {
+                    "id": 11,
+                    "name": "Viborg"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "England",
+            "code": "ENG",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Chelsea"
+                },
+                {
+                    "id": 2,
+                    "name": "Tottenham Hotspur"
+                },
+                {
+                    "id": 3,
+                    "name": "Manchester City"
+                },
+                {
+                    "id": 4,
+                    "name": "Manchester United"
+                },
+                {
+                    "id": 5,
+                    "name": "Liverpool"
+                },
+                {
+                    "id": 6,
+                    "name": "Arsenal"
+                },
+                {
+                    "id": 7,
+                    "name": "Everton"
+                },
+                {
+                    "id": 8,
+                    "name": "Burnley"
+                },
+                {
+                    "id": 9,
+                    "name": "Wolverhampton Wanderers"
+                },
+                {
+                    "id": 10,
+                    "name": "Leicester City"
+                },
+                {
+                    "id": 11,
+                    "name": "West Ham United"
+                },
+                {
+                    "id": 12,
+                    "name": "Aston Villa"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Estonia",
+            "code": "EE",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "FCI Tallinn"
+                },
+                {
+                    "id": 2,
+                    "name": "FCI Levadia"
+                },
+                {
+                    "id": 3,
+                    "name": "Nõmme Kalju"
+                },
+                {
+                    "id": 4,
+                    "name": "Flora"
+                },
+                {
+                    "id": 5,
+                    "name": "Narva Trans"
+                },
+                {
+                    "id": 6,
+                    "name": "Paide Linnameeskond"
+                },
+                {
+                    "id": 7,
+                    "name": "Tallinna Kalev"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Faroe Islands",
+            "code": "FO",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Víkingur Gøta"
+                },
+                {
+                    "id": 2,
+                    "name": "KÍ"
+                },
+                {
+                    "id": 3,
+                    "name": "NSÍ Runavík"
+                },
+                {
+                    "id": 4,
+                    "name": "B36 Tórshavn"
+                },
+                {
+                    "id": 5,
+                    "name": "HB Tórshavn"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Finland",
+            "code": "FI",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "IFK Mariehamn"
+                },
+                {
+                    "id": 2,
+                    "name": "SJK"
+                },
+                {
+                    "id": 3,
+                    "name": "HJK"
+                },
+                {
+                    "id": 4,
+                    "name": "VPS"
+                },
+                {
+                    "id": 5,
+                    "name": "KuPS"
+                },
+                {
+                    "id": 6,
+                    "name": "Ilves"
+                },
+                {
+                    "id": 7,
+                    "name": "Lahti"
+                },
+                {
+                    "id": 8,
+                    "name": "Inter Turku"
+                },
+                {
+                    "id": 9,
+                    "name": "RoPS"
+                },
+                {
+                    "id": 10,
+                    "name": "Honka"
+                },
+                {
+                    "id": 11,
+                    "name": "Haka"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "France",
+            "code": "FR",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Monaco"
+                },
+                {
+                    "id": 2,
+                    "name": "Paris Saint-Germain"
+                },
+                {
+                    "id": 3,
+                    "name": "Nice"
+                },
+                {
+                    "id": 4,
+                    "name": "Lyon"
+                },
+                {
+                    "id": 5,
+                    "name": "Marseille"
+                },
+                {
+                    "id": 6,
+                    "name": "Bordeaux"
+                },
+                {
+                    "id": 7,
+                    "name": "Lille"
+                },
+                {
+                    "id": 8,
+                    "name": "Rennes"
+                },
+                {
+                    "id": 9,
+                    "name": "Saint-Étienne"
+                },
+                {
+                    "id": 10,
+                    "name": "Strasbourg"
+                },
+                {
+                    "id": 11,
+                    "name": "Nantes"
+                },
+                {
+                    "id": 12,
+                    "name": "Lens"
+                },
+                {
+                    "id": 13,
+                    "name": "Brest"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Georgia",
+            "code": "GE",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Samtredia"
+                },
+                {
+                    "id": 2,
+                    "name": "Torpedo Kutaisi"
+                },
+                {
+                    "id": 3,
+                    "name": "Chikhura Sachkhere"
+                },
+                {
+                    "id": 4,
+                    "name": "Dinamo Batumi"
+                },
+                {
+                    "id": 5,
+                    "name": "Dinamo Tbilisi"
+                },
+                {
+                    "id": 6,
+                    "name": "Iberia 1999"
+                },
+                {
+                    "id": 7,
+                    "name": "Locomotive Tbilisi"
+                },
+                {
+                    "id": 8,
+                    "name": "Dila Gori"
+                },
+                {
+                    "id": 9,
+                    "name": "Gagra"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Germany",
+            "code": "DE",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Bayern Munich"
+                },
+                {
+                    "id": 2,
+                    "name": "RB Leipzig"
+                },
+                {
+                    "id": 3,
+                    "name": "Borussia Dortmund"
+                },
+                {
+                    "id": 4,
+                    "name": "TSG Hoffenheim"
+                },
+                {
+                    "id": 5,
+                    "name": "1. FC Köln"
+                },
+                {
+                    "id": 6,
+                    "name": "Hertha BSC"
+                },
+                {
+                    "id": 7,
+                    "name": "SC Freiburg"
+                },
+                {
+                    "id": 8,
+                    "name": "Schalke 04"
+                },
+                {
+                    "id": 9,
+                    "name": "Eintracht Frankfurt"
+                },
+                {
+                    "id": 10,
+                    "name": "Bayer Leverkusen"
+                },
+                {
+                    "id": 11,
+                    "name": "Borussia Mönchengladbach"
+                },
+                {
+                    "id": 12,
+                    "name": "VfL Wolfsburg"
+                },
+                {
+                    "id": 13,
+                    "name": "Union Berlin"
+                },
+                {
+                    "id": 14,
+                    "name": "Heidenheim"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Gibraltar",
+            "code": "GI",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Europa FC"
+                },
+                {
+                    "id": 2,
+                    "name": "Lincoln Red Imps"
+                },
+                {
+                    "id": 3,
+                    "name": "St Joseph's"
+                },
+                {
+                    "id": 4,
+                    "name": "Mons Calpe"
+                },
+                {
+                    "id": 5,
+                    "name": "Bruno's Magpies"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Greece",
+            "code": "GR",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Olympiacos"
+                },
+                {
+                    "id": 2,
+                    "name": "AEK Athens"
+                },
+                {
+                    "id": 3,
+                    "name": "PAOK"
+                },
+                {
+                    "id": 4,
+                    "name": "Panathinaikos"
+                },
+                {
+                    "id": 5,
+                    "name": "Aris"
+                },
+                {
+                    "id": 6,
+                    "name": "Panionios"
+                },
+                {
+                    "id": 7,
+                    "name": "Atromitos"
+                },
+                {
+                    "id": 8,
+                    "name": "OFI"
+                },
+                {
+                    "id": 9,
+                    "name": "Asteras Tripolis"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Hungary",
+            "code": "HU",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Honvéd"
+                },
+                {
+                    "id": 2,
+                    "name": "Ferencváros"
+                },
+                {
+                    "id": 3,
+                    "name": "Fehérvár"
+                },
+                {
+                    "id": 4,
+                    "name": "Vasas"
+                },
+                {
+                    "id": 5,
+                    "name": "Újpest"
+                },
+                {
+                    "id": 6,
+                    "name": "Debrecen"
+                },
+                {
+                    "id": 7,
+                    "name": "Puskás Akadémia"
+                },
+                {
+                    "id": 8,
+                    "name": "Kisvárda"
+                },
+                {
+                    "id": 9,
+                    "name": "Zalaegerszeg"
+                },
+                {
+                    "id": 10,
+                    "name": "Kecskemét"
+                },
+                {
+                    "id": 11,
+                    "name": "Paks"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Iceland",
+            "code": "IS",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "FH"
+                },
+                {
+                    "id": 2,
+                    "name": "Valur"
+                },
+                {
+                    "id": 3,
+                    "name": "Stjarnan"
+                },
+                {
+                    "id": 4,
+                    "name": "KR"
+                },
+                {
+                    "id": 5,
+                    "name": "ÍBV"
+                },
+                {
+                    "id": 6,
+                    "name": "Breiðablik"
+                },
+                {
+                    "id": 7,
+                    "name": "Víkingur Reykjavík"
+                },
+                {
+                    "id": 8,
+                    "name": "KA"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Israel",
+            "code": "IL",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Hapoel Be'er Sheva"
+                },
+                {
+                    "id": 2,
+                    "name": "Bnei Yehuda"
+                },
+                {
+                    "id": 3,
+                    "name": "Maccabi Tel Aviv"
+                },
+                {
+                    "id": 4,
+                    "name": "Beitar Jerusalem"
+                },
+                {
+                    "id": 5,
+                    "name": "Hapoel Haifa"
+                },
+                {
+                    "id": 6,
+                    "name": "Maccabi Haifa"
+                },
+                {
+                    "id": 7,
+                    "name": "Ashdod"
+                },
+                {
+                    "id": 8,
+                    "name": "Maccabi Netanya"
+                },
+                {
+                    "id": 9,
+                    "name": "Maccabi Petah Tikva"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Italy",
+            "code": "IT",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Juventus"
+                },
+                {
+                    "id": 2,
+                    "name": "Roma"
+                },
+                {
+                    "id": 3,
+                    "name": "Napoli"
+                },
+                {
+                    "id": 4,
+                    "name": "Atalanta"
+                },
+                {
+                    "id": 5,
+                    "name": "Lazio"
+                },
+                {
+                    "id": 6,
+                    "name": "Milan"
+                },
+                {
+                    "id": 7,
+                    "name": "Inter Milan"
+                },
+                {
+                    "id": 8,
+                    "name": "Torino"
+                },
+                {
+                    "id": 9,
+                    "name": "Fiorentina"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Kazakhstan",
+            "code": "KZ",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Astana"
+                },
+                {
+                    "id": 2,
+                    "name": "Kairat"
+                },
+                {
+                    "id": 3,
+                    "name": "Ordabasy"
+                },
+                {
+                    "id": 4,
+                    "name": "Tobol"
+                },
+                {
+                    "id": 5,
+                    "name": "Kaisar"
+                },
+                {
+                    "id": 6,
+                    "name": "Shakhter Karagandy"
+                },
+                {
+                    "id": 7,
+                    "name": "Aktobe"
+                },
+                {
+                    "id": 8,
+                    "name": "Kyzylzhar"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Kosovo",
+            "code": "XK",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Trepça'89"
+                },
+                {
+                    "id": 2,
+                    "name": "Prishtina"
+                },
+                {
+                    "id": 3,
+                    "name": "Drita"
+                },
+                {
+                    "id": 4,
+                    "name": "Feronikeli"
+                },
+                {
+                    "id": 5,
+                    "name": "Gjilani"
+                },
+                {
+                    "id": 6,
+                    "name": "Ballkani"
+                },
+                {
+                    "id": 7,
+                    "name": "Llapi"
+                },
+                {
+                    "id": 8,
+                    "name": "Dukagjini"
+                },
+                {
+                    "id": 9,
+                    "name": "Malisheva"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Latvia",
+            "code": "LV",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Spartaks Jūrmala"
+                },
+                {
+                    "id": 2,
+                    "name": "Jelgava"
+                },
+                {
+                    "id": 3,
+                    "name": "Liepāja"
+                },
+                {
+                    "id": 4,
+                    "name": "Riga"
+                },
+                {
+                    "id": 5,
+                    "name": "RFS"
+                },
+                {
+                    "id": 6,
+                    "name": "Valmiera"
+                },
+                {
+                    "id": 7,
+                    "name": "Auda"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Liechtenstein",
+            "code": "LI",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Vaduz"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Lithuania",
+            "code": "LT",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Žalgiris"
+                },
+                {
+                    "id": 2,
+                    "name": "Riteriai"
+                },
+                {
+                    "id": 3,
+                    "name": "Sūduva Marijampolė"
+                },
+                {
+                    "id": 4,
+                    "name": "Kauno Žalgiris"
+                },
+                {
+                    "id": 5,
+                    "name": "Panevėžys"
+                },
+                {
+                    "id": 6,
+                    "name": "Hegelmann"
+                },
+                {
+                    "id": 7,
+                    "name": "TransINVEST"
+                },
+                {
+                    "id": 8,
+                    "name": "Šiauliai"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Luxembourg",
+            "code": "LU",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "F91 Dudelange"
+                },
+                {
+                    "id": 2,
+                    "name": "Differdange 03"
+                },
+                {
+                    "id": 3,
+                    "name": "Fola Esch"
+                },
+                {
+                    "id": 4,
+                    "name": "Progrès Niederkorn"
+                },
+                {
+                    "id": 5,
+                    "name": "Racing Luxembourg"
+                },
+                {
+                    "id": 6,
+                    "name": "Jeunesse Esch"
+                },
+                {
+                    "id": 7,
+                    "name": "Union Titus Pétange"
+                },
+                {
+                    "id": 8,
+                    "name": "Swift Hesperange"
+                },
+                {
+                    "id": 9,
+                    "name": "UNA Strassen"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Malta",
+            "code": "MT",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Hibernians"
+                },
+                {
+                    "id": 2,
+                    "name": "Floriana"
+                },
+                {
+                    "id": 3,
+                    "name": "Balzan"
+                },
+                {
+                    "id": 4,
+                    "name": "Valletta"
+                },
+                {
+                    "id": 5,
+                    "name": "Gżira United"
+                },
+                {
+                    "id": 6,
+                    "name": "Birkirkara"
+                },
+                {
+                    "id": 7,
+                    "name": "Sirens"
+                },
+                {
+                    "id": 8,
+                    "name": "Mosta"
+                },
+                {
+                    "id": 9,
+                    "name": "Ħamrun Spartans"
+                },
+                {
+                    "id": 10,
+                    "name": "Marsaxlokk"
+                },
+                {
+                    "id": 11,
+                    "name": "Sliema Wanderers"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Moldova",
+            "code": "MD",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Sheriff Tiraspol"
+                },
+                {
+                    "id": 2,
+                    "name": "Milsami Orhei"
+                },
+                {
+                    "id": 3,
+                    "name": "Zaria Bălți"
+                },
+                {
+                    "id": 4,
+                    "name": "Petrocub Hîncești"
+                },
+                {
+                    "id": 5,
+                    "name": "Speranța Nisporeni"
+                },
+                {
+                    "id": 6,
+                    "name": "Dinamo-Auto"
+                },
+                {
+                    "id": 7,
+                    "name": "Zimbru Chișinău"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Montenegro",
+            "code": "ME",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Budućnost Podgorica"
+                },
+                {
+                    "id": 2,
+                    "name": "Sutjeska Nikšić"
+                },
+                {
+                    "id": 3,
+                    "name": "Zeta"
+                },
+                {
+                    "id": 4,
+                    "name": "Mladost Podgorica"
+                },
+                {
+                    "id": 5,
+                    "name": "Titograd"
+                },
+                {
+                    "id": 6,
+                    "name": "Rudar Pljevlja"
+                },
+                {
+                    "id": 7,
+                    "name": "Iskra Danilovgrad"
+                },
+                {
+                    "id": 8,
+                    "name": "Dečić"
+                },
+                {
+                    "id": 9,
+                    "name": "Podgorica"
+                },
+                {
+                    "id": 10,
+                    "name": "Arsenal Tivat"
+                },
+                {
+                    "id": 11,
+                    "name": "Mornar Bar"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Netherlands",
+            "code": "NL",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Feyenoord"
+                },
+                {
+                    "id": 2,
+                    "name": "Ajax"
+                },
+                {
+                    "id": 3,
+                    "name": "PSV Eindhoven"
+                },
+                {
+                    "id": 4,
+                    "name": "Utrecht"
+                },
+                {
+                    "id": 5,
+                    "name": "AZ"
+                },
+                {
+                    "id": 6,
+                    "name": "Vitesse"
+                },
+                {
+                    "id": 7,
+                    "name": "Willem II"
+                },
+                {
+                    "id": 8,
+                    "name": "Twente"
+                },
+                {
+                    "id": 9,
+                    "name": "Go Ahead Eagles"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "North Macedonia",
+            "code": "MK",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Vardar"
+                },
+                {
+                    "id": 2,
+                    "name": "Pelister"
+                },
+                {
+                    "id": 3,
+                    "name": "Shkëndija"
+                },
+                {
+                    "id": 4,
+                    "name": "Rabotnički"
+                },
+                {
+                    "id": 5,
+                    "name": "Shkupi"
+                },
+                {
+                    "id": 6,
+                    "name": "Akademija Pandev"
+                },
+                {
+                    "id": 7,
+                    "name": "Makedonija"
+                },
+                {
+                    "id": 8,
+                    "name": "Sileks"
+                },
+                {
+                    "id": 9,
+                    "name": "Renova"
+                },
+                {
+                    "id": 10,
+                    "name": "Struga"
+                },
+                {
+                    "id": 11,
+                    "name": "Tikvesh"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Northern Ireland",
+            "code": "NIR",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Linfield"
+                },
+                {
+                    "id": 2,
+                    "name": "Crusaders"
+                },
+                {
+                    "id": 3,
+                    "name": "Coleraine"
+                },
+                {
+                    "id": 4,
+                    "name": "Ballymena United"
+                },
+                {
+                    "id": 5,
+                    "name": "Glenavon"
+                },
+                {
+                    "id": 6,
+                    "name": "Cliftonville"
+                },
+                {
+                    "id": 7,
+                    "name": "Glentoran"
+                },
+                {
+                    "id": 8,
+                    "name": "Larne"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Norway",
+            "code": "NO",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Rosenborg"
+                },
+                {
+                    "id": 2,
+                    "name": "Brann"
+                },
+                {
+                    "id": 3,
+                    "name": "Odd"
+                },
+                {
+                    "id": 4,
+                    "name": "Haugesund"
+                },
+                {
+                    "id": 5,
+                    "name": "Lillestrøm"
+                },
+                {
+                    "id": 6,
+                    "name": "Sarpsborg 08"
+                },
+                {
+                    "id": 5,
+                    "name": "Molde"
+                },
+                {
+                    "id": 6,
+                    "name": "Viking"
+                },
+                {
+                    "id": 7,
+                    "name": "Bodø/Glimt"
+                },
+                {
+                    "id": 8,
+                    "name": "Vålerenga"
+                },
+                {
+                    "id": 9,
+                    "name": "Tromsø"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Poland",
+            "code": "PL",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Legia Warsaw"
+                },
+                {
+                    "id": 2,
+                    "name": "Arka Gdynia"
+                },
+                {
+                    "id": 3,
+                    "name": "Jagiellonia Białystok"
+                },
+                {
+                    "id": 4,
+                    "name": "Lech Poznań"
+                },
+                {
+                    "id": 5,
+                    "name": "Górnik Zabrze"
+                },
+                {
+                    "id": 6,
+                    "name": "Piast Gliwice"
+                },
+                {
+                    "id": 7,
+                    "name": "Lechia Gdańsk"
+                },
+                {
+                    "id": 8,
+                    "name": "Cracovia"
+                },
+                {
+                    "id": 9,
+                    "name": "Raków Częstochowa"
+                },
+                {
+                    "id": 10,
+                    "name": "Pogoń Szczecin"
+                },
+                {
+                    "id": 11,
+                    "name": "Wisła Kraków"
+                },
+                {
+                    "id": 11,
+                    "name": "Śląsk Wrocław"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Portugal",
+            "code": "PT",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Benfica"
+                },
+                {
+                    "id": 2,
+                    "name": "Porto"
+                },
+                {
+                    "id": 3,
+                    "name": "Sporting CP"
+                },
+                {
+                    "id": 4,
+                    "name": "Vitória de Guimarães"
+                },
+                {
+                    "id": 5,
+                    "name": "Braga"
+                },
+                {
+                    "id": 6,
+                    "name": "Maritimo"
+                },
+                {
+                    "id": 7,
+                    "name": "Rio Ave"
+                },
+                {
+                    "id": 8,
+                    "name": "Paços de Ferreira"
+                },
+                {
+                    "id": 9,
+                    "name": "Santa Clara"
+                },
+                {
+                    "id": 10,
+                    "name": "Gil Vicente"
+                },
+                {
+                    "id": 11,
+                    "name": "Arouca"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Republic of Ireland",
+            "code": "IRL",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Dundalk"
+                },
+                {
+                    "id": 2,
+                    "name": "Cork City"
+                },
+                {
+                    "id": 3,
+                    "name": "Derry City"
+                },
+                {
+                    "id": 4,
+                    "name": "Shamrock Rovers"
+                },
+                {
+                    "id": 5,
+                    "name": "St Patrick's Athletic"
+                },
+                {
+                    "id": 6,
+                    "name": "Bohemians"
+                },
+                {
+                    "id": 7,
+                    "name": "Sligo Rovers"
+                },
+                {
+                    "id": 8,
+                    "name": "Shelbourne"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Romania",
+            "code": "RO",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "FCSB"
+                },
+                {
+                    "id": 2,
+                    "name": "Dinamo București"
+                },
+                {
+                    "id": 3,
+                    "name": "Universitatea Craiova"
+                },
+                {
+                    "id": 4,
+                    "name": "CFR Cluj"
+                },
+                {
+                    "id": 5,
+                    "name": "Botoșani"
+                },
+                {
+                    "id": 6,
+                    "name": "Sepsi OSK"
+                },
+                {
+                    "id": 7,
+                    "name": "Farul Constanța"
+                },
+                {
+                    "id": 8,
+                    "name": "Corvinul Hunedoara"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Russia",
+            "code": "RU",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Spartak Moscow"
+                },
+                {
+                    "id": 2,
+                    "name": "CSKA Moscow"
+                },
+                {
+                    "id": 3,
+                    "name": "Lokomotiv Moscow"
+                },
+                {
+                    "id": 4,
+                    "name": "Zenit Saint Petersburg"
+                },
+                {
+                    "id": 5,
+                    "name": "Krasnodar"
+                },
+                {
+                    "id": 6,
+                    "name": "Ufa"
+                },
+                {
+                    "id": 7,
+                    "name": "Arsenal Tula"
+                },
+                {
+                    "id": 8,
+                    "name": "Rostov"
+                },
+                {
+                    "id": 9,
+                    "name": "Dynamo Moscow"
+                },
+                {
+                    "id": 10,
+                    "name": "Sochi"
+                },
+                {
+                    "id": 11,
+                    "name": "Rubin Kazan"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "San Marino",
+            "code": "SM",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "La Fiorita"
+                },
+                {
+                    "id": 2,
+                    "name": "Tre Penne"
+                },
+                {
+                    "id": 3,
+                    "name": "Folgore"
+                },
+                {
+                    "id": 4,
+                    "name": "Tre Fiori"
+                },
+                {
+                    "id": 5,
+                    "name": "Cosmos"
+                },
+                {
+                    "id": 6,
+                    "name": "Virtus"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Scotland",
+            "code": "SCO",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Celtic"
+                },
+                {
+                    "id": 2,
+                    "name": "Aberdeen"
+                },
+                {
+                    "id": 3,
+                    "name": "Rangers"
+                },
+                {
+                    "id": 4,
+                    "name": "St Johnstone"
+                },
+                {
+                    "id": 5,
+                    "name": "Hibernian"
+                },
+                {
+                    "id": 6,
+                    "name": "Kilmarnock"
+                },
+                {
+                    "id": 7,
+                    "name": "Motherwell"
+                },
+                {
+                    "id": 8,
+                    "name": "Heart of Midlothian"
+                },
+                {
+                    "id": 9,
+                    "name": "Dundee United"
+                },
+                {
+                    "id": 10,
+                    "name": "St Mirren"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Serbia",
+            "code": "RS",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Partizan"
+                },
+                {
+                    "id": 2,
+                    "name": "Red Star Belgrade"
+                },
+                {
+                    "id": 3,
+                    "name": "Vojvodina"
+                },
+                {
+                    "id": 4,
+                    "name": "Mladost Lučani"
+                },
+                {
+                    "id": 5,
+                    "name": "Radnički Niš"
+                },
+                {
+                    "id": 6,
+                    "name": "Spartak Subotica"
+                },
+                {
+                    "id": 7,
+                    "name": "Čukarički"
+                },
+                {
+                    "id": 8,
+                    "name": "TSC"
+                },
+                {
+                    "id": 9,
+                    "name": "Radnički 1923"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Slovakia",
+            "code": "SK",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Žilina"
+                },
+                {
+                    "id": 2,
+                    "name": "Slovan Bratislava"
+                },
+                {
+                    "id": 3,
+                    "name": "Ružomberok"
+                },
+                {
+                    "id": 4,
+                    "name": "Trenčín"
+                },
+                {
+                    "id": 5,
+                    "name": "Spartak Trnava"
+                },
+                {
+                    "id": 6,
+                    "name": "DAC Dunajská Streda"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Slovenia",
+            "code": "SI",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Maribor"
+                },
+                {
+                    "id": 2,
+                    "name": "Domžale"
+                },
+                {
+                    "id": 3,
+                    "name": "Gorica"
+                },
+                {
+                    "id": 4,
+                    "name": "Olimpija Ljubljana"
+                },
+                {
+                    "id": 5,
+                    "name": "Rudar Velenje"
+                },
+                {
+                    "id": 6,
+                    "name": "Mura"
+                },
+                {
+                    "id": 7,
+                    "name": "Celje"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Spain",
+            "code": "ES",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Real Madrid"
+                },
+                {
+                    "id": 2,
+                    "name": "Barcelona"
+                },
+                {
+                    "id": 3,
+                    "name": "Atlético Madrid"
+                },
+                {
+                    "id": 4,
+                    "name": "Sevilla"
+                },
+                {
+                    "id": 5,
+                    "name": "Villarreal"
+                },
+                {
+                    "id": 6,
+                    "name": "Real Sociedad"
+                },
+                {
+                    "id": 7,
+                    "name": "Athletic Bilbao"
+                },
+                {
+                    "id": 8,
+                    "name": "Valencia"
+                },
+                {
+                    "id": 9,
+                    "name": "Real Betis"
+                },
+                {
+                    "id": 10,
+                    "name": "Getafe"
+                },
+                {
+                    "id": 11,
+                    "name": "Espanyol"
+                },
+                {
+                    "id": 12,
+                    "name": "Granada"
+                },
+                {
+                    "id": 13,
+                    "name": "Osasuna"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Sweden",
+            "code": "SE",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Malmö FF"
+                },
+                {
+                    "id": 2,
+                    "name": "Östersund"
+                },
+                {
+                    "id": 3,
+                    "name": "AIK"
+                },
+                {
+                    "id": 4,
+                    "name": "IFK Norrköping"
+                },
+                {
+                    "id": 5,
+                    "name": "Djurgårdens IF"
+                },
+                {
+                    "id": 6,
+                    "name": "BK Häcken"
+                },
+                {
+                    "id": 7,
+                    "name": "IFK Göteborg"
+                },
+                {
+                    "id": 8,
+                    "name": "Hammarby IF"
+                },
+                {
+                    "id": 9,
+                    "name": "IF Elfsborg"
+                },
+                {
+                    "id": 10,
+                    "name": "Kalmar FF"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Switzerland",
+            "code": "CH",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Basel"
+                },
+                {
+                    "id": 2,
+                    "name": "Young Boys"
+                },
+                {
+                    "id": 3,
+                    "name": "Lugano"
+                },
+                {
+                    "id": 4,
+                    "name": "Sion"
+                },
+                {
+                    "id": 5,
+                    "name": "Zürich"
+                },
+                {
+                    "id": 6,
+                    "name": "Luzern"
+                },
+                {
+                    "id": 7,
+                    "name": "St. Gallen"
+                },
+                {
+                    "id": 8,
+                    "name": "Thun"
+                },
+                {
+                    "id": 9,
+                    "name": "Servette"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Turkey",
+            "code": "TR",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Beşiktaş"
+                },
+                {
+                    "id": 2,
+                    "name": "İstanbul Başakşehir"
+                },
+                {
+                    "id": 3,
+                    "name": "Fenerbahçe"
+                },
+                {
+                    "id": 4,
+                    "name": "Galatasaray"
+                },
+                {
+                    "id": 5,
+                    "name": "Trabzonspor"
+                },
+                {
+                    "id": 6,
+                    "name": "Sivasspor"
+                },
+                {
+                    "id": 7,
+                    "name": "Konyaspor"
+                },
+                {
+                    "id": 8,
+                    "name": "Adana Demirspor"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Ukraine",
+            "code": "UA",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "Shakhtar Donetsk"
+                },
+                {
+                    "id": 2,
+                    "name": "Dynamo Kyiv"
+                },
+                {
+                    "id": 3,
+                    "name": "Zorya Luhansk"
+                },
+                {
+                    "id": 4,
+                    "name": "Oleksandriya"
+                },
+                {
+                    "id": 5,
+                    "name": "Vorskla Poltava"
+                },
+                {
+                    "id": 6,
+                    "name": "Kolos Kovalivka"
+                },
+                {
+                    "id": 7,
+                    "name": "Desna Chernihiv"
+                },
+                {
+                    "id": 8,
+                    "name": "Dnipro-1"
+                },
+                {
+                    "id": 9,
+                    "name": "Kryvbas Kryvyi Rih"
+                },
+                {
+                    "id": 10,
+                    "name": "Polissya Zhytomyr"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Wales",
+            "code": "WAL",
+            "clubs": [
+                {
+                    "id": 1,
+                    "name": "The New Saints"
+                },
+                {
+                    "id": 2,
+                    "name": "Bala Town"
+                },
+                {
+                    "id": 3,
+                    "name": "Connah's Quay Nomads"
+                },
+                {
+                    "id": 4,
+                    "name": "Bangor City"
+                },
+                {
+                    "id": 5,
+                    "name": "Cefn Druids"
+                },
+                {
+                    "id": 6,
+                    "name": "Barry Town United"
+                },
+                {
+                    "id": 7,
+                    "name": "Cardiff Metropolitan University"
+                },
+                {
+                    "id": 8,
+                    "name": "Newtown"
+                },
+                {
+                    "id": 9,
+                    "name": "Penybont"
+                },
+                {
+                    "id": 10,
+                    "name": "Haverfordwest County"
+                },
+                {
+                    "id": 11,
+                    "name": "Caernarfon Town"
+                }
+            ]
+        }
+    ]
+}
