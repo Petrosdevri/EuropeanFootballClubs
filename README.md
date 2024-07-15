@@ -1,6 +1,8 @@
 # European Football Clubs
 
-A list of all European football clubs that have participated in European competitions from 2017-18 to 2024-25.
+A list of all European football clubs that have participated in European competitions from 2017-18 to 2024-25. 
+
+***NOTE: It does not contain defunct clubs or clubs that currently play in lower leagues than the 2nd division.***
 
 ## Structure
 The data is structured in a JSON format for easy access and manipulation. The main components are:
